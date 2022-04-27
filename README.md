@@ -9,6 +9,8 @@
 <github-card user="pazguille"></github-card>
 ```
 
+## With ❤ by
+
 - Guille Paz (Frontend Web Developer & Web standards lover)
 - E-mail: [guille87paz@gmail.com](mailto:guille87paz@gmail.com)
 - Twitter: [@pazguille](https://twitter.com/pazguille)
